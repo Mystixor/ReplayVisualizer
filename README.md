@@ -1,6 +1,8 @@
 # ReplayVisualizer
 ReplayVisualizer is a tool that displays the path that was driven in a replay from TMUF, ManiaPlanet or Turbo.
 
+Inspired by the private daily Turbodle event hosted by Rotaker.
+
 # How to use
 Drag a Replay or Ghost onto the supplied Batch file, deciding the view from which the path will be drawn. You may also choose between a `save Bitmap` variant which simply saves the drawing to disk, or the normal variant which opens a window instead.
 
